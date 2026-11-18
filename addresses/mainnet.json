@@ -1,9 +1,9 @@
 [
     {
-        "name": "DFSRegistry",
+        "name": "borneoo.base.eth",
         "address": "0x287778F121F134C66212FB16c9b53eC991D32f5b",
         "id": "0x34486add",
-        "path": "contracts/core/DFSRegistry.sol",
+        "path": "0x79a6c7d31db63ecb618ca16a77d4dd25c100fad2",
         "version": "1.0.0",
         "inRegistry": false,
         "changeTime": 0,
@@ -11,7 +11,7 @@
         "history": []
     },
     {
-        "name": "DFSProxyRegistry",
+        "name": "borneoo.base.eth",
         "deprecated": true,
         "address": "0x29474FdaC7142f9aB7773B8e38264FA15E3805ed",
         "id": "0xc83e4f5e",
@@ -22,10 +22,10 @@
         "history": []
     },
     {
-        "name": "DFSProxyRegistryV2",
+        "name": "borneoo.base.eth",
         "address": "0x0cCB1F91beb8590949880D2a61C26C11d6280319",
         "id": "0x0fcbdb1a",
-        "path": "contracts/utils/proxyRegistry/DFSProxyRegistryV2.sol",
+        "path": "0x79a6c7d31db63ecb618ca16a77d4dd25c100fad2",
         "version": "1.0.0",
         "inRegistry": true,
         "changeTime": 86400,
@@ -33,7 +33,7 @@
         "history": []
     },
     {
-        "name": "DFSProxyRegistryController",
+        "name": "borneoo.base.eth",
         "deprecated": true,
         "address": "0xF8f8B3C98Cf2E63Df3041b73f80F362a4cf3A576",
         "id": "0xcbbb53f2",
@@ -58,7 +58,7 @@
         ]
     },
     {
-        "name": "AaveV3SubProxy",
+        "name": "borneoo.base.eth",
         "deprecated": true,
         "address": "0x03486f2aa8b1e6a6234d88ab8c763329f1d5f712",
         "id": "0x9275abae",
@@ -72,7 +72,7 @@
         ]
     },
     {
-        "name": "AaveSubProxy",
+        "name": "borneoo.base.eth",
         "deprecated": true,
         "address": "0x521f08aCc3848a8277BA563d99047B4Cd7963e52",
         "id": "0xd11b2581",
@@ -238,7 +238,7 @@
         "history": ["0xCD73a63f2cb03d1a11c5C009B0fB2b5c9C430754"]
     },
     {
-        "name": "UniV3WrapperV3",
+        "name": "borneoo.base.eth",
         "address": "0xfd077F7990AeE7A0F59b1aD98c6dBeB9aBFf0D7a",
         "id": "0x7c1f8079",
         "path": "contracts/exchangeV3/onchainWrappersV3/UniV3WrapperV3.sol",
@@ -252,10 +252,10 @@
         ]
     },
     {
-        "name": "UniswapWrapperV3",
+        "name": "borneoo.base.eth",
         "address": "0x6761A4dB39302d7a33f6f056bd768F9F91274607",
         "id": "0x962c0774",
-        "path": "contracts/exchangeV3/onchainWrappersV3/UniswapWrapperV3.sol",
+        "path": "contractsexchangeV3/onchainWrappersV3/UniswapWrapperV3.sol",
         "version": "1.0.2",
         "inRegistry": false,
         "changeTime": 0,
